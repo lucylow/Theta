@@ -1,8 +1,6 @@
 # Sonovate
 
-
-
-
+### TNT20 contract on the Theta Testnet
 
 ```
 ==================== Token details =====================
