@@ -22,6 +22,7 @@ SONVATE balance of wallet 0x1563915e194D8CfBA1943570603F7606A3115508 : 100000000
 
 ### NFTs on Testnet Theta
 
+![](https://github.com/lucylow/Theta/blob/main/nft/Screen%20Shot%202024-07-30%20at%2011.18.25%20AM.png?raw=true)
 
 ![](https://github.com/lucylow/Theta/blob/main/nft/Screen%20Shot%202024-07-29%20at%201.28.07%20PM.png?raw=true)
 
