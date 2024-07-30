@@ -4,6 +4,8 @@
 
 ![](https://github.com/lucylow/Theta/blob/main/contracts/Screen%20Shot%202024-07-30%20at%2011.22.46%20AM.png?raw=true)
 
+https://beta-explorer.thetatoken.org/account/0x0DbcD5fF403BC184f5054A2d6751135AbEbA50C3
+
 ```
 ==================== Token details =====================
 Address     : 0x73b647cbA2FE75Ba05B8e12ef8F8D6327D6367bF
@@ -20,7 +22,6 @@ SONVATE balance of wallet 0x1563915e194D8CfBA1943570603F7606A3115508 : 100000000
 
 ```
 
-https://beta-explorer.thetatoken.org/account/0x0DbcD5fF403BC184f5054A2d6751135AbEbA50C3
 
 =============================================================================================================================================================================================
 
