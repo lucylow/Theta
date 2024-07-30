@@ -2,6 +2,8 @@
 
 ### TNT20 SOV token contract on the Theta Testnet
 
+![](https://github.com/lucylow/Theta/blob/main/contracts/Screen%20Shot%202024-07-30%20at%2011.22.46%20AM.png?raw=true)
+
 ```
 ==================== Token details =====================
 Address     : 0x73b647cbA2FE75Ba05B8e12ef8F8D6327D6367bF
@@ -12,12 +14,14 @@ Total supply: 100000000000000000000000000 SOV Wei
 ```
 
 
-
-
 ```
 llow@Lucys-MacBook-Pro tnt20-token-example-master % node scripts/query_tnt20_token_balance.js ganache 0x73b647cbA2FE75Ba05B8e12ef8F8D6327D6367bF 0x1563915e194D8CfBA1943570603F7606A3115508
 SONVATE balance of wallet 0x1563915e194D8CfBA1943570603F7606A3115508 : 100000000000000000000000000 SOV Wei
+
 ```
+
+https://beta-explorer.thetatoken.org/account/0x0DbcD5fF403BC184f5054A2d6751135AbEbA50C3
+
 =============================================================================================================================================================================================
 
 ### TNT 721 NFTs on Testnet Theta
