@@ -1,5 +1,7 @@
 # Sonovate: Disrupting the Hollywood Monopoly
 
+![](https://github.com/lucylow/Theta/blob/main/Screen%20Shot%202024-07-30%20at%202.57.14%20PM.png?raw=true)
+
 ### TNT20 SOV token contract on the Theta Testnet
 
 ![](https://github.com/lucylow/Theta/blob/main/contracts/Screen%20Shot%202024-07-30%20at%2011.22.46%20AM.png?raw=true)
