@@ -1,4 +1,4 @@
-# Sonovate
+# Sonovate: Disrupting the Hollywood Monopoly
 
 ### TNT20 SOV token contract on the Theta Testnet
 
